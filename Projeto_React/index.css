@@ -1,0 +1,39 @@
+/* Estilo para o body */
+body {
+    padding: 60px;
+    background-color: #d0e4ea;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #000000;
+}
+
+/* Estilo para o título */
+.titulos-pagina {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #084b47;
+    font-size: 25px;
+}
+
+/* Estilo para a imagem */
+.img-react {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    border-radius: 8px;
+}
+
+/* Estilo para o parágrafo */
+.conteudo-react, .react-dom, .list-conceitos {
+    line-height: 1.7;
+    font-size: 23px;
+}
+
+.list-conceitos ul li {
+    margin: 30px
+}
+
+.list-conceitos ul li span {
+    color: #084b47;
+    font-weight: bold;
+}
